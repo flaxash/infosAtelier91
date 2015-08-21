@@ -35,6 +35,11 @@
     </initialWindow>
     <customUpdateUI>false</customUpdateUI>
     <allowBrowserInvocation>false</allowBrowserInvocation>
-    <icon></icon>
+    <icon>
+        <image128x128>AppIconsForPublish/icones_infosAtelier_128-01.png</image128x128>
+        <image48x48>AppIconsForPublish/icones_infosAtelier_48-02.png</image48x48>
+        <image32x32>AppIconsForPublish/icones_infosAtelier_32-03.png</image32x32>
+        <image16x16>AppIconsForPublish/icones_infosAtelier_16-04.png</image16x16>
+    </icon>
     
 <version>1.0</version></application>
